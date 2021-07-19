@@ -5,7 +5,7 @@ Os objetivos deste desafio eram: construir uma interface frontend (em Angular ou
 - [x] Backend CRUD em Node.js com Express.js
 - [x] Integração em tempo real com o Firestore da Google Firebase
 - [x] Serviço de frontend independente em React.js
-- [ ] Acesso às operaçôes de CRUD pelo frontend
+- [ ] Acesso às operações de CRUD pelo frontend
 
 ## Uso:
 1. Faça download e extraia os arquivos.
