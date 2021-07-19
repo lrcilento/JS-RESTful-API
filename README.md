@@ -1,4 +1,4 @@
-# Desafio Alest
+# RESTful API
 Os objetivos deste desafio eram: construir uma interface frontend (em Angular ou React) que mostrasse produtos a serem vendidos; gerenciar e requisitar os dados diretamente de um banco de dados NoSQL Firestore da Google; e possuir uma API CRUD HTTP feita utilizando a biblioteca do Express.js.
 
 ## Features:
